@@ -10,5 +10,5 @@ Simple python todo list that allow you to tracking your daily objectives from yo
 ## Install
 
 ```
-  git clone PROJECT-LINK
+  git clone https://github.com/MahmoudMahfouz21295/TO-DO-NOTE.git
 ```
